@@ -1,0 +1,46 @@
+
+/*Formatacao de TAG */
+
+body{
+    background-color: #CECE5A;
+    color: #FD8D14;
+}
+
+
+/*Formatacao de ID */
+
+#titulo_principal{
+    font-size: 100px;
+    color: #C51605;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    font-style: italic;
+    text-align: center;
+
+}
+
+
+
+
+/*Formatacao de class */
+.texto{
+    font-size: 60px;
+    color:#1A5D1A;
+    text-align: center;
+
+
+}
+
+.caixa{
+    border: 2px solid #252B48;
+    background-color: #445069;
+    color: #5B9A8B; 
+    text-align: center;
+
+}
+
+.centralizar{
+    width: 100px;
+    height: auto;
+
+}
